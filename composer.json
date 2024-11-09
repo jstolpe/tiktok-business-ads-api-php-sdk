@@ -1,0 +1,30 @@
+{
+    "name": "jstolpe/tiktok-business-ads-api-php-sdk",
+    "description": "TikTok Business Ads API PHP SDK",
+    "keywords": [
+        "tiktok", 
+        "tiktok ads", 
+        "api", 
+        "business api", 
+        "sdk", 
+        "php", 
+        "tiktok business ads api"
+    ],
+    "type": "library",
+    "homepage": "https://github.com/jstolpe/tiktok-business-ads-api-php-sdk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Justin Stolpe",
+            "homepage": "https://github.com/jstolpe/tiktok-business-ads-api-php-sdk"
+        }
+    ],
+    "require": {
+        "php": "^5.6|^7.0|^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "TikTokAds\\": "src/TikTokAds/"
+        }
+    }
+}
