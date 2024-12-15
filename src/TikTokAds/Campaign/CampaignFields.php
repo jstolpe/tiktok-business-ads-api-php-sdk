@@ -37,6 +37,7 @@ namespace TikTokAds\Campaign;
 class CampaignFields {
     const ADGROUP_QUOTA_INFO = 'adgroup_quota_info';
     const ADVERTISER_ID = 'advertiser_id';
+    const APP_ID = 'app_id';
     const APP_PROMOTION_TYPE = 'app_promotion_type';
     const AVAILABLE_ADGROUP_QUOTA = 'available_adgroup_quota';
     const AVAILABLE_CAMPAIGN_QUOTA = 'available_campaign_quota';
